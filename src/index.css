@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+input {
+  padding: 5px;
+  width: 42rem;
+  height: 10rem;
+  font-size: 3rem;
+  background-color: black;
+  color: white;
+  border: none;
+  color: hotpink;
+}
+
+body {
+  margin: 20px;
+  border: 1px solid hotpink;
+  padding: 13rem;
+  background-color: black;
+  color: hotpink;
+}
