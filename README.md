@@ -1,2 +1,2 @@
 # MARK8
-Live Preview: https://hardiksinhamark8.netlify.app/
+Live Preview: https://assignment-mark8.netlify.app/
